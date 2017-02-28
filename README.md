@@ -1,0 +1,2 @@
+# stone
+the programm start
